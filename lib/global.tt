@@ -1,0 +1,101 @@
+[% agts = {
+    scopeNumber = "10"
+    school = "Assemblies of God"
+    libraryNameLong = "Assemblies of God Theological Seminary"
+    librarySite = "http://www.agts.edu/lib/"
+    topLogo = "agts.gif"
+    }
+-%]
+
+[% bbc = {
+    scopeNumber = "9"
+    school = "Baptist Bible College"
+    libraryNameLong = "Baptist Bible College Vick Library"
+    librarySite = "http://library.gobbc.edu/"
+    topLogo = "bbc_logo_green.jpg"
+    }
+-%]
+
+
+[% cottey = {
+    scopeNumber = "8"
+    school = "Cottey College"
+    libraryNameLong = "Cottey College"
+    librarySite = "http://www.cottey.edu/home/departments/library.html/"
+    topLogo = "cottey_crest4_navbar.gif"
+    }
+-%]
+
+
+[% crowder = {
+    scopeNumber = "1"
+    school = "Crowder College"
+    libraryNameLong = "Crowder College Bill and Margot Lee Library"
+    librarySite = "http://www.crowder.edu/library.html"
+    topLogo = "crowder_nav.gif"
+    }
+-%]
+
+[% drury = {
+    scopeNumber = "2"
+    school = "Drury University"
+    libraryNameLong = "Drury University"
+    librarySite = "http://library.drury.edu/"
+    topLogo = "drury2.jpg"
+    }
+-%]
+
+[% fipp = {
+    scopeNumber = "12"
+    school = "Forest Institute of Professional Psychology"
+    libraryNameLong = "Forest Institute of Professional Psychology"
+    librarySite = "http://www.forest.edu/library/index.asp"
+    topLogo = "fipp_logo.jpg"
+    }
+-%]
+
+[% mssu = {
+    scopeNumber = "3"
+    school = "Missouri Southern State University"
+    libraryNameLong = "Missouri Southern State University"
+    librarySite = "http://www.mssu.edu/spivalib/"
+    topLogo = "MSSUseal_navbar.gif"
+    }
+-%]
+
+[% msu = {
+    scopeNumber = "6"
+    school = "Missouri State University"
+    libraryNameLong = "Missouri State University"
+    librarySite = "http://library.missouristate.edu/"
+    topLogo = "MSU_Logo.gif"
+    }
+-%]
+
+[% msugreenwood = {
+    scopeNumber = "7"
+    school = "MSU Greenwood LMC"
+    libraryNameLong = "Missouri State University - Greenwood LMC"
+    librarySite = "http://library.missouristate.edu/"
+    topLogo = "MSU_Logo.gif"
+    }
+-%]
+
+[% otc = {
+scopeNumber = "4"
+school = "Ozarks Technical Community College"
+libraryNameLong = "Ozarks Technical Community College"
+librarySite = "http://www.otc.cc.mo.us/lr/lrc/index.htm"
+topLogo = "071105_otc_logo1.jpg"
+    }
+-%]
+
+[% sbu = {
+scopeNumber = "5"
+school = "Southwest Baptist University"
+libraryNameLong = "Southwest Baptist University"
+librarySite = "http://www.sbuniv.edu/library/index.htm"
+topLogo = "bronze_navbar.jpg"
+    }
+-%]
+
